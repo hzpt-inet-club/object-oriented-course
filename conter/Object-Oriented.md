@@ -8,7 +8,7 @@
 
 但是在大部分的教材之后都有一句广为流传的名言：“面向对象的本质是封装，继承，多态”。由于我不是很能确定大家能否一下子理解这句话，所以建议大家可以参考一下「Object-Oriented」这个术语的创造者也是图灵奖的获得者[Alan key](https://en.wikipedia.org/wiki/Alan_Kay),他本人对于OOP的理解；从他的描述里面我们可以非常直观的发现他对于“messaging”也就是“发送和处理消息”的多次强调，按照他的理解“messaging”才是Object-Oriented的首要特征。
 
-![Alan key](../images/Alan key.jpg)
+![Alan key](./images/Alan key.jpg)
 
 > 举例：一个世界在他的眼里就是一堆独立运作的节点在互相的发送信息和处理消息，比如A节点给B节点发送消息，翻译成代码大概就是`A这个Object调用了B的某一个Method`
 
